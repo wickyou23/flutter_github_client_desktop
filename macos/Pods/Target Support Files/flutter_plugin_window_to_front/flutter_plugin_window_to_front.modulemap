@@ -1,0 +1,6 @@
+framework module flutter_plugin_window_to_front {
+  umbrella header "flutter_plugin_window_to_front-umbrella.h"
+
+  export *
+  module * { export * }
+}
